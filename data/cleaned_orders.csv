@@ -1,0 +1,496 @@
+order_id,customer_id,customer_name,product,quantity,price,order_date,city,total_amount
+1,C121,Gokul,Keyboard,1.0,899.0,2025-08-09,Chennai,899.0
+2,C108,Vijay,USB-C Cable,2.0,273.9,2025-03-31,Vellore,547.8
+3,C119,Praveen,Power Bank,1.0,899.1,2025-06-04,Hosur,899.1
+4,C107,Sneha,Laptop Stand,1.0,1428.9,2025-07-23,Erode,1428.9
+5,C123,Ramesh,Laptop Bag,7.0,1199.0,2026-05-04,Madurai,8393.0
+6,C119,Praveen,Headphones,1.0,1599.0,2026-09-03,Hosur,1599.0
+7,C111,Santhosh,Headphones,3.0,1599.0,2025-11-12,Tiruppur,4797.0
+8,C104,Karthik,Keyboard,7.0,809.1,2026-03-01,Tirunelveli,5663.7
+9,C112,Nithya,Bluetooth Speaker,5.0,1619.1,2026-04-16,Dindigul,8095.5
+10,C118,Lakshmi,Keyboard,7.0,809.1,2026-07-20,Villupuram,5663.7
+11,C110,Priya,Laptop Bag,6.0,1318.9,2025-07-16,Chennai,7913.4
+12,C123,Ramesh,Keyboard,1.0,899.0,2025-10-24,Madurai,899.0
+13,C103,Divya,Laptop Stand,2.0,1363.95,2025-12-10,Madurai,2727.9
+14,C115,Suresh,Laptop Bag,6.0,1199.0,2026-01-15,Kanchipuram,7194.0
+15,C112,Nithya,Laptop Stand,5.0,1169.1,2025-06-25,Dindigul,5845.5
+16,C118,Lakshmi,SSD 1TB,4.0,6499.0,2026-04-19,Villupuram,25996.0
+17,C113,Manoj,Headphones,4.0,1599.0,2025-02-27,Thoothukudi,6396.0
+18,C108,Vijay,Wireless Mouse,6.0,628.95,2025-02-10,Vellore,3773.7
+19,C103,Divya,Laptop Stand,6.0,1299.0,2026-05-27,Madurai,7794.0
+20,C113,Manoj,Laptop Bag,8.0,1199.0,2025-09-29,Thoothukudi,9592.0
+21,C105,Meena,Laptop Stand,5.0,1428.9,2026-03-15,Salem,7144.5
+22,C119,Praveen,Power Bank,6.0,999.0,2025-05-22,Hosur,5994.0
+23,C117,Unknown,Monitor,2.0,8099.1,2025-04-23,Karur,16198.2
+24,C105,Meena,Laptop Bag,3.0,1258.95,2026-03-09,Salem,3776.85
+25,C103,Divya,Power Bank,7.0,1098.9,2026-04-25,Madurai,7692.3
+26,C117,Hari,Headphones,1.0,1439.1,2026-04-07,Karur,1439.1
+27,C125,Dinesh,Headphones,6.0,1439.1,2025-10-28,Trichy,8634.6
+28,C114,Aishwarya,USB-C Cable,8.0,224.1,2025-09-27,Chengalpattu,1792.8
+29,C117,Unknown,USB-C Cable,2.0,249.0,2026-04-06,Karur,498.0
+30,C120,Yamini,Laptop Stand,3.0,1299.0,2025-06-15,Cuddalore,3897.0
+31,C118,Lakshmi,USB Hub,1.0,823.9,2025-11-28,Villupuram,823.9
+32,C116,Keerthana,Wireless Mouse,2.0,800.0,2025-11-11,Nagercoil,1600.0
+33,C108,Vijay,Wireless Mouse,4.0,658.9,2025-03-22,Vellore,2635.6
+34,C103,Divya,SSD 1TB,8.0,5849.1,2026-06-30,Madurai,46792.8
+35,C125,Dinesh,USB-C Cable,3.0,261.45,2026-07-17,Trichy,784.35
+36,C106,Rahul,Headphones,7.0,1599.0,2026-07-07,Trichy,11193.0
+37,C125,Dinesh,SSD 1TB,4.0,6499.0,2026-02-13,Trichy,25996.0
+38,C122,Pavithra,Laptop Bag,6.0,1258.95,2026-06-14,Salem,7553.7
+39,C115,Suresh,Keyboard,4.0,899.0,2025-07-03,Kanchipuram,3596.0
+40,C111,Santhosh,Wireless Mouse,4.0,658.9,2025-08-14,Tiruppur,2635.6
+41,C101,Priya,Keyboard,1.0,899.0,2025-11-03,Chennai,899.0
+42,C102,Arun,Webcam,2.0,2418.9,2025-01-09,Coimbatore,4837.8
+43,C109,Anitha,Laptop Bag,8.0,1199.0,2026-07-07,Thanjavur,9592.0
+44,C105,Meena,SSD 1TB,8.0,6499.0,2026-04-30,Salem,51992.0
+45,C114,Aishwarya,Laptop Stand,2.0,1169.1,2026-03-18,Chengalpattu,2338.2
+46,C112,Nithya,Power Bank,7.0,1048.95,2025-02-25,Dindigul,7342.65
+47,C122,Pavithra,Laptop Bag,2.0,1079.1,2026-02-17,Salem,2158.2
+48,C124,Janani,Webcam,2.0,2199.0,2025-07-16,Coimbatore,4398.0
+49,C107,Sneha,USB Hub,8.0,749.0,2026-09-03,Erode,5992.0
+50,C106,Rahul,Headphones,8.0,1599.0,2025-03-19,Trichy,12792.0
+51,C115,Suresh,USB Hub,2.0,674.1,2026-08-07,Kanchipuram,1348.2
+52,C101,Priya,Keyboard,4.0,899.0,2026-02-21,Chennai,3596.0
+53,C116,Keerthana,Monitor,4.0,9448.95,2025-02-03,Nagercoil,37795.8
+54,C106,Rahul,Power Bank,1.0,1048.95,2025-09-29,Trichy,1048.95
+55,C115,Suresh,Headphones,7.0,1758.9,2026-05-14,Kanchipuram,12312.3
+56,C105,Meena,Laptop Stand,5.0,1299.0,2025-01-03,Salem,6495.0
+57,C119,Praveen,SSD 1TB,1.0,6499.0,2025-02-28,Hosur,6499.0
+58,C102,Arun,Bluetooth Speaker,8.0,1978.9,2026-06-28,Coimbatore,15831.2
+59,C106,Rahul,Wireless Mouse,2.0,599.0,2025-12-03,Trichy,1198.0
+60,C120,Yamini,Keyboard,4.0,943.95,2025-03-05,Cuddalore,3775.8
+61,C119,Praveen,Laptop Stand,1.0,1428.9,2025-03-25,Hosur,1428.9
+62,C114,Aishwarya,Laptop Bag,6.0,1199.0,2025-07-29,Chengalpattu,7194.0
+63,C122,Pavithra,SSD 1TB,6.0,6499.0,2025-09-29,Salem,38994.0
+64,C113,Manoj,USB-C Cable,5.0,261.45,2025-11-20,Thoothukudi,1307.25
+65,C125,Dinesh,Keyboard,1.0,943.95,2026-07-31,Trichy,943.95
+66,C104,Karthik,Keyboard,4.0,988.9,2025-09-29,Tirunelveli,3955.6
+67,C105,Meena,Webcam,2.0,2199.0,2026-01-14,Salem,4398.0
+68,C110,Priya,USB-C Cable,8.0,273.9,2025-06-11,Chennai,2191.2
+69,C120,Yamini,Laptop Bag,1.0,1318.9,2025-03-11,Cuddalore,1318.9
+70,C122,Pavithra,Keyboard,3.0,899.0,2025-04-29,Salem,2697.0
+71,C104,Karthik,SSD 1TB,3.0,6499.0,2025-10-16,Tirunelveli,19497.0
+72,C120,Unknown,Laptop Stand,6.0,1299.0,2025-09-28,Cuddalore,7794.0
+73,C117,Hari,Monitor,5.0,8099.1,2025-05-04,Karur,40495.5
+74,C121,Gokul,Power Bank,1.0,899.1,2025-04-01,Chennai,899.1
+75,C111,Santhosh,USB-C Cable,5.0,249.0,2026-03-29,Tiruppur,1245.0
+76,C118,Lakshmi,SSD 1TB,7.0,7148.9,2025-10-01,Villupuram,50042.3
+77,C104,Karthik,Keyboard,3.0,988.9,2025-06-02,Tirunelveli,2966.7
+78,C112,Nithya,Bluetooth Speaker,3.0,1888.95,2025-11-05,Dindigul,5666.85
+79,C102,Arun,Headphones,6.0,1439.1,2026-02-01,Coimbatore,8634.6
+80,C107,Sneha,Laptop Bag,4.0,1079.1,2025-12-29,Erode,4316.4
+81,C125,Dinesh,USB Hub,7.0,823.9,2025-08-06,Trichy,5767.3
+82,C108,Vijay,USB-C Cable,3.0,261.45,2025-01-26,Vellore,784.35
+83,C106,Rahul,SSD 1TB,6.0,6823.95,2025-12-09,Trichy,40943.7
+84,C109,Anitha,USB-C Cable,2.0,261.45,2025-09-02,Thanjavur,522.9
+85,C116,Keerthana,Laptop Stand,4.0,1363.95,2025-12-25,Nagercoil,5455.8
+86,C110,Priya,Laptop Stand,4.0,1169.1,2025-07-17,Chennai,4676.4
+87,C113,Manoj,Webcam,5.0,1979.1,2025-10-13,Thoothukudi,9895.5
+88,C112,Nithya,Laptop Bag,7.0,1318.9,2025-06-12,Dindigul,9232.3
+89,C101,Priya,Keyboard,5.0,899.0,2026-08-18,Chennai,4495.0
+90,C109,Anitha,Wireless Mouse,2.0,658.9,2026-03-21,Thanjavur,1317.8
+91,C112,Nithya,SSD 1TB,6.0,6823.95,2026-09-13,Dindigul,40943.7
+92,C117,Hari,Keyboard,7.0,988.9,2025-07-14,Karur,6922.3
+93,C109,Anitha,Wireless Mouse,7.0,539.1,2026-06-17,Thanjavur,3773.7
+94,C118,Lakshmi,Laptop Bag,4.0,1199.0,2026-03-18,Villupuram,4796.0
+95,C103,Divya,Laptop Bag,6.0,1318.9,2025-11-18,Madurai,7913.4
+96,C122,Pavithra,Keyboard,5.0,988.9,2025-11-13,Salem,4944.5
+97,C122,Pavithra,Power Bank,6.0,1048.95,2025-10-30,Salem,6293.7
+98,C118,Lakshmi,USB-C Cable,4.0,261.45,2026-01-24,Villupuram,1045.8
+99,C122,Pavithra,SSD 1TB,3.0,7148.9,2026-06-08,Salem,21446.7
+100,C110,Priya,Power Bank,1.0,999.0,2025-10-21,Chennai,999.0
+101,C107,Sneha,Power Bank,6.0,1048.95,2026-03-29,Erode,6293.7
+102,C115,Suresh,Laptop Bag,4.0,1318.9,2026-04-30,Kanchipuram,5275.6
+103,C124,Janani,USB-C Cable,2.0,249.0,2026-12-06,Coimbatore,498.0
+104,C122,Pavithra,Laptop Bag,6.0,1079.1,2025-08-29,Salem,6474.6
+105,C122,Pavithra,Headphones,4.0,1599.0,2025-05-31,Salem,6396.0
+106,C101,Priya,Wireless Mouse,4.0,628.95,2025-03-16,Chennai,2515.8
+107,C115,Suresh,Power Bank,4.0,1048.95,2026-05-22,Kanchipuram,4195.8
+108,C113,Manoj,Laptop Stand,3.0,1169.1,2025-04-20,Thoothukudi,3507.3
+109,C125,Dinesh,Power Bank,4.0,999.0,2026-06-15,Trichy,3996.0
+110,C115,Suresh,Wireless Mouse,4.0,539.1,2026-04-13,Kanchipuram,2156.4
+111,C105,Meena,Monitor,6.0,9448.95,2026-01-06,Salem,56693.7
+112,C114,Unknown,USB Hub,8.0,749.0,2026-02-05,Chengalpattu,5992.0
+113,C115,Suresh,Headphones,4.0,1599.0,2026-06-18,Kanchipuram,6396.0
+114,C116,Keerthana,Laptop Bag,4.0,800.0,2026-03-27,Nagercoil,3200.0
+115,C103,Divya,SSD 1TB,5.0,6499.0,2025-06-10,Madurai,32495.0
+116,C111,Santhosh,Webcam,2.0,2199.0,2025-04-06,Tiruppur,4398.0
+117,C108,Vijay,Power Bank,3.0,999.0,2025-07-03,Vellore,2997.0
+118,C114,Aishwarya,Power Bank,6.0,1098.9,2026-04-23,Chengalpattu,6593.4
+119,C114,Aishwarya,Wireless Mouse,4.0,628.95,2026-03-02,Chengalpattu,2515.8
+120,C125,Unknown,Bluetooth Speaker,1.0,1978.9,2026-01-25,Unknown,1978.9
+121,C116,Keerthana,Wireless Mouse,6.0,599.0,2026-04-02,Nagercoil,3594.0
+122,C114,Aishwarya,USB Hub,1.0,786.45,2025-08-13,Chengalpattu,786.45
+123,C109,Anitha,Power Bank,8.0,899.1,2026-03-02,Thanjavur,7192.8
+124,C111,Santhosh,Laptop Bag,7.0,1199.0,2026-04-24,Tiruppur,8393.0
+125,C105,Meena,Bluetooth Speaker,1.0,1888.95,2026-08-30,Salem,1888.95
+126,C119,Praveen,Laptop Bag,1.0,1079.1,2026-03-15,Hosur,1079.1
+127,C105,Meena,Monitor,3.0,8099.1,2025-09-24,Salem,24297.3
+128,C113,Manoj,Webcam,4.0,2308.95,2025-01-12,Thoothukudi,9235.8
+129,C111,Santhosh,Power Bank,5.0,1048.95,2025-09-16,Tiruppur,5244.75
+130,C103,Divya,Monitor,1.0,9898.9,2025-02-23,Madurai,9898.9
+131,C112,Nithya,Laptop Stand,2.0,1169.1,2025-01-02,Dindigul,2338.2
+132,C108,Vijay,Laptop Stand,1.0,1428.9,2025-06-06,Vellore,1428.9
+133,C108,Vijay,USB-C Cable,8.0,224.1,2026-01-08,Vellore,1792.8
+134,C107,Sneha,Monitor,5.0,8999.0,2025-06-21,Erode,44995.0
+135,C120,Yamini,Bluetooth Speaker,2.0,1799.0,2025-11-15,Cuddalore,3598.0
+136,C104,Karthik,Bluetooth Speaker,1.0,1799.0,2026-08-13,Tirunelveli,1799.0
+137,C122,Pavithra,Power Bank,7.0,999.0,2025-03-19,Salem,6993.0
+138,C119,Praveen,SSD 1TB,4.0,5849.1,2025-05-11,Hosur,23396.4
+139,C122,Pavithra,Bluetooth Speaker,2.0,1978.9,2025-12-02,Salem,3957.8
+140,C112,Nithya,USB Hub,7.0,749.0,2025-12-03,Dindigul,5243.0
+141,C117,Hari,Laptop Bag,6.0,800.0,2026-07-03,Karur,4800.0
+142,C116,Keerthana,Keyboard,7.0,899.0,2026-04-16,Nagercoil,6293.0
+143,C123,Ramesh,USB-C Cable,7.0,249.0,2026-06-19,Madurai,1743.0
+144,C121,Gokul,Headphones,8.0,1678.95,2026-03-23,Chennai,13431.6
+145,C124,Janani,Bluetooth Speaker,5.0,1799.0,2025-09-09,Coimbatore,8995.0
+146,C103,Divya,Headphones,8.0,1599.0,2026-04-21,Madurai,12792.0
+147,C119,Praveen,Bluetooth Speaker,7.0,1799.0,2025-01-30,Hosur,12593.0
+148,C116,Keerthana,Webcam,3.0,2308.95,2025-06-08,Nagercoil,6926.85
+149,C112,Nithya,Headphones,6.0,1599.0,2026-03-09,Unknown,9594.0
+150,C123,Ramesh,Headphones,1.0,1758.9,2025-07-15,Madurai,1758.9
+151,C103,Divya,Laptop Stand,7.0,1363.95,2026-07-23,Madurai,9547.65
+152,C125,Dinesh,Laptop Stand,8.0,1363.95,2026-04-04,Trichy,10911.6
+153,C101,Priya,Keyboard,5.0,899.0,2026-02-19,Chennai,4495.0
+154,C123,Ramesh,Laptop Stand,5.0,800.0,2026-01-13,Madurai,4000.0
+155,C116,Keerthana,USB Hub,1.0,786.45,2026-07-18,Nagercoil,786.45
+156,C111,Santhosh,Webcam,8.0,2199.0,2025-10-11,Tiruppur,17592.0
+157,C109,Anitha,Laptop Stand,2.0,1299.0,2025-11-20,Thanjavur,2598.0
+158,C104,Karthik,SSD 1TB,3.0,6499.0,2025-10-08,Tirunelveli,19497.0
+159,C124,Janani,Monitor,5.0,9898.9,2026-06-22,Coimbatore,49494.5
+160,C120,Yamini,Headphones,2.0,1599.0,2025-10-31,Cuddalore,3198.0
+161,C108,Vijay,Webcam,3.0,2199.0,2025-01-15,Vellore,6597.0
+162,C123,Ramesh,USB Hub,3.0,749.0,2025-02-16,Madurai,2247.0
+163,C102,Arun,USB Hub,5.0,749.0,2026-05-18,Coimbatore,3745.0
+164,C104,Karthik,Wireless Mouse,5.0,628.95,2026-06-05,Unknown,3144.75
+165,C115,Suresh,Webcam,1.0,1979.1,2025-09-16,Kanchipuram,1979.1
+166,C116,Keerthana,Keyboard,2.0,943.95,2026-05-19,Nagercoil,1887.9
+167,C103,Divya,Bluetooth Speaker,1.0,1799.0,2025-02-06,Madurai,1799.0
+168,C119,Praveen,Headphones,2.0,1599.0,2025-02-05,Hosur,3198.0
+169,C118,Lakshmi,Power Bank,4.0,1098.9,2026-01-25,Villupuram,4395.6
+170,C115,Suresh,Monitor,5.0,9898.9,2026-03-16,Kanchipuram,49494.5
+171,C110,Priya,Bluetooth Speaker,1.0,1978.9,2025-12-04,Chennai,1978.9
+172,C125,Dinesh,Laptop Stand,4.0,1299.0,2025-03-25,Trichy,5196.0
+173,C106,Rahul,Laptop Stand,3.0,1428.9,2025-03-18,Trichy,4286.7
+174,C106,Rahul,Wireless Mouse,7.0,628.95,2026-01-09,Trichy,4402.65
+175,C116,Keerthana,Headphones,1.0,1599.0,2025-10-23,Nagercoil,1599.0
+176,C123,Ramesh,Headphones,8.0,1439.1,2025-08-28,Madurai,11512.8
+177,C109,Anitha,Laptop Bag,4.0,1258.95,2025-04-28,Thanjavur,5035.8
+178,C118,Lakshmi,Laptop Stand,3.0,1299.0,2025-05-26,Villupuram,3897.0
+179,C103,Divya,Wireless Mouse,3.0,599.0,2026-02-09,Madurai,1797.0
+180,C124,Janani,Bluetooth Speaker,5.0,1888.95,2025-08-05,Coimbatore,9444.75
+181,C115,Suresh,SSD 1TB,5.0,6823.95,2025-06-10,Kanchipuram,34119.75
+182,C117,Hari,USB Hub,8.0,786.45,2025-03-24,Karur,6291.6
+183,C120,Yamini,Wireless Mouse,7.0,599.0,2026-11-09,Cuddalore,4193.0
+184,C109,Anitha,Wireless Mouse,2.0,599.0,2026-08-13,Thanjavur,1198.0
+185,C119,Praveen,Wireless Mouse,5.0,658.9,2025-11-02,Hosur,3294.5
+186,C125,Dinesh,USB-C Cable,8.0,273.9,2026-03-29,Trichy,2191.2
+187,C109,Anitha,USB-C Cable,7.0,261.45,2025-04-04,Thanjavur,1830.15
+188,C116,Keerthana,Webcam,7.0,2199.0,2025-11-25,Nagercoil,15393.0
+189,C122,Pavithra,Keyboard,3.0,899.0,2026-02-26,Salem,2697.0
+190,C123,Ramesh,Monitor,5.0,9448.95,2026-07-18,Madurai,47244.75
+191,C102,Arun,Monitor,2.0,8999.0,2025-09-16,Coimbatore,17998.0
+192,C111,Santhosh,Keyboard,7.0,988.9,2025-02-01,Tiruppur,6922.3
+193,C122,Pavithra,USB Hub,8.0,786.45,2025-02-25,Salem,6291.6
+194,C107,Sneha,USB Hub,6.0,823.9,2026-05-26,Erode,4943.4
+195,C121,Gokul,Monitor,1.0,8999.0,2025-01-10,Chennai,8999.0
+196,C118,Lakshmi,USB-C Cable,5.0,261.45,2026-05-12,Villupuram,1307.25
+197,C104,Karthik,Wireless Mouse,4.0,599.0,2025-11-15,Tirunelveli,2396.0
+198,C118,Lakshmi,Wireless Mouse,7.0,539.1,2025-08-19,Villupuram,3773.7
+199,C104,Karthik,Monitor,2.0,8999.0,2026-05-26,Tirunelveli,17998.0
+200,C123,Ramesh,Headphones,5.0,1678.95,2026-10-05,Madurai,8394.75
+201,C116,Keerthana,Laptop Stand,8.0,1428.9,2025-05-29,Nagercoil,11431.2
+202,C113,Manoj,Laptop Stand,3.0,1169.1,2025-10-10,Thoothukudi,3507.3
+203,C125,Dinesh,Power Bank,6.0,1098.9,2025-01-10,Trichy,6593.4
+204,C101,Priya,Headphones,5.0,1758.9,2026-08-17,Chennai,8794.5
+205,C122,Pavithra,Monitor,3.0,9448.95,2026-06-07,Salem,28346.85
+206,C116,Unknown,Webcam,6.0,2418.9,2026-11-07,Nagercoil,14513.4
+207,C113,Manoj,Monitor,6.0,8999.0,2025-02-09,Thoothukudi,53994.0
+208,C119,Praveen,Power Bank,4.0,1048.95,2025-02-14,Hosur,4195.8
+209,C111,Santhosh,SSD 1TB,8.0,6823.95,2026-01-31,Tiruppur,54591.6
+210,C122,Pavithra,Laptop Bag,3.0,1258.95,2025-07-02,Salem,3776.85
+211,C105,Meena,USB Hub,6.0,674.1,2026-03-27,Salem,4044.6
+212,C104,Karthik,USB Hub,8.0,800.0,2025-05-28,Tirunelveli,6400.0
+213,C114,Aishwarya,Laptop Bag,3.0,1079.1,2026-04-26,Chengalpattu,3237.3
+214,C109,Anitha,Webcam,7.0,1979.1,2025-03-12,Thanjavur,13853.7
+215,C122,Pavithra,USB Hub,7.0,749.0,2026-05-15,Salem,5243.0
+216,C118,Lakshmi,Wireless Mouse,2.0,599.0,2025-10-22,Villupuram,1198.0
+217,C108,Vijay,SSD 1TB,2.0,6823.95,2025-11-04,Vellore,13647.9
+218,C125,Dinesh,Laptop Bag,2.0,1258.95,2025-06-20,Trichy,2517.9
+219,C123,Ramesh,Headphones,1.0,1439.1,2025-11-29,Madurai,1439.1
+220,C102,Arun,Headphones,6.0,1599.0,2026-03-18,Coimbatore,9594.0
+221,C105,Meena,Laptop Stand,7.0,1428.9,2025-04-07,Salem,10002.3
+222,C106,Rahul,USB-C Cable,2.0,273.9,2026-01-27,Trichy,547.8
+223,C120,Yamini,Laptop Bag,4.0,1258.95,2026-08-21,Cuddalore,5035.8
+224,C105,Meena,Laptop Stand,8.0,1299.0,2026-04-16,Salem,10392.0
+225,C109,Unknown,Laptop Bag,1.0,1258.95,2025-10-22,Thanjavur,1258.95
+226,C122,Pavithra,USB Hub,3.0,674.1,2026-03-29,Salem,2022.3
+227,C112,Nithya,Bluetooth Speaker,5.0,1888.95,2025-09-14,Dindigul,9444.75
+228,C115,Suresh,Headphones,4.0,1678.95,2026-10-05,Kanchipuram,6715.8
+229,C104,Karthik,Laptop Stand,7.0,1428.9,2026-03-01,Tirunelveli,10002.3
+230,C119,Praveen,Headphones,5.0,1439.1,2026-10-02,Hosur,7195.5
+231,C109,Anitha,Wireless Mouse,1.0,658.9,2026-05-24,Thanjavur,658.9
+232,C110,Priya,Laptop Stand,6.0,1299.0,2025-07-14,Chennai,7794.0
+233,C120,Yamini,Headphones,3.0,1439.1,2025-10-02,Cuddalore,4317.3
+234,C110,Priya,Monitor,1.0,9898.9,2026-09-01,Chennai,9898.9
+235,C124,Janani,USB-C Cable,2.0,249.0,2025-01-12,Coimbatore,498.0
+236,C124,Janani,Power Bank,3.0,999.0,2025-05-16,Coimbatore,2997.0
+237,C118,Lakshmi,Webcam,5.0,2199.0,2025-09-21,Villupuram,10995.0
+238,C116,Keerthana,Headphones,6.0,1439.1,2026-04-25,Nagercoil,8634.6
+239,C103,Divya,USB-C Cable,4.0,261.45,2026-07-25,Madurai,1045.8
+240,C112,Nithya,Keyboard,7.0,809.1,2025-09-28,Dindigul,5663.7
+241,C118,Lakshmi,Keyboard,8.0,899.0,2025-09-26,Villupuram,7192.0
+242,C119,Praveen,Power Bank,6.0,899.1,2025-08-28,Hosur,5394.6
+243,C116,Keerthana,Wireless Mouse,6.0,658.9,2025-08-15,Nagercoil,3953.4
+244,C121,Gokul,Keyboard,8.0,899.0,2026-02-23,Chennai,7192.0
+245,C104,Karthik,USB-C Cable,1.0,224.1,2025-08-11,Tirunelveli,224.1
+246,C116,Keerthana,Keyboard,2.0,899.0,2026-05-07,Nagercoil,1798.0
+247,C105,Meena,Power Bank,8.0,999.0,2026-08-07,Salem,7992.0
+248,C114,Aishwarya,Bluetooth Speaker,3.0,1888.95,2025-12-04,Chengalpattu,5666.85
+249,C116,Keerthana,Bluetooth Speaker,7.0,1799.0,2025-03-02,Nagercoil,12593.0
+250,C123,Ramesh,Webcam,4.0,2308.95,2026-01-04,Madurai,9235.8
+251,C108,Vijay,Webcam,2.0,2199.0,2026-12-07,Vellore,4398.0
+252,C121,Gokul,Webcam,1.0,2308.95,2025-10-10,Chennai,2308.95
+253,C107,Sneha,Keyboard,8.0,809.1,2025-06-08,Erode,6472.8
+254,C121,Gokul,Laptop Bag,1.0,1079.1,2025-12-08,Chennai,1079.1
+255,C108,Vijay,USB-C Cable,4.0,224.1,2026-07-22,Vellore,896.4
+256,C107,Sneha,Bluetooth Speaker,4.0,1799.0,2025-03-12,Erode,7196.0
+257,C125,Dinesh,USB-C Cable,1.0,249.0,2025-05-29,Trichy,249.0
+258,C105,Unknown,USB Hub,5.0,749.0,2025-04-23,Salem,3745.0
+259,C122,Pavithra,Wireless Mouse,3.0,539.1,2026-02-01,Salem,1617.3
+260,C108,Vijay,Bluetooth Speaker,6.0,1619.1,2025-06-28,Vellore,9714.6
+261,C109,Anitha,Wireless Mouse,3.0,628.95,2026-06-23,Thanjavur,1886.85
+262,C104,Karthik,SSD 1TB,2.0,6823.95,2026-05-04,Tirunelveli,13647.9
+263,C125,Dinesh,Webcam,2.0,2308.95,2026-05-31,Trichy,4617.9
+264,C108,Vijay,Bluetooth Speaker,1.0,1978.9,2025-05-11,Vellore,1978.9
+265,C115,Suresh,Laptop Bag,1.0,1079.1,2026-06-05,Kanchipuram,1079.1
+266,C113,Manoj,Power Bank,2.0,1048.95,2026-03-31,Thoothukudi,2097.9
+267,C103,Divya,Keyboard,6.0,800.0,2025-01-06,Madurai,4800.0
+268,C103,Divya,USB-C Cable,5.0,273.9,2026-08-23,Madurai,1369.5
+269,C118,Lakshmi,SSD 1TB,6.0,6823.95,2026-09-04,Villupuram,40943.7
+270,C117,Hari,Headphones,8.0,1758.9,2026-12-09,Karur,14071.2
+271,C114,Aishwarya,Keyboard,2.0,988.9,2025-09-08,Chengalpattu,1977.8
+272,C114,Aishwarya,Monitor,4.0,9448.95,2025-12-14,Chengalpattu,37795.8
+273,C115,Suresh,Power Bank,7.0,899.1,2025-11-17,Kanchipuram,6293.7
+274,C114,Aishwarya,Webcam,5.0,2199.0,2025-06-06,Chengalpattu,10995.0
+275,C122,Pavithra,Monitor,2.0,8099.1,2025-03-29,Salem,16198.2
+276,C103,Divya,Power Bank,2.0,999.0,2025-05-14,Madurai,1998.0
+277,C118,Unknown,Wireless Mouse,6.0,539.1,2026-02-25,Villupuram,3234.6
+278,C112,Nithya,Laptop Bag,7.0,1079.1,2025-10-22,Dindigul,7553.7
+279,C120,Yamini,Headphones,6.0,1439.1,2026-08-15,Cuddalore,8634.6
+280,C117,Hari,Laptop Stand,3.0,1363.95,2025-08-18,Karur,4091.85
+281,C104,Karthik,Webcam,6.0,1979.1,2025-10-13,Tirunelveli,11874.6
+282,C119,Praveen,Laptop Stand,7.0,1428.9,2026-07-25,Hosur,10002.3
+283,C101,Priya,Bluetooth Speaker,5.0,1619.1,2025-04-07,Chennai,8095.5
+284,C109,Anitha,SSD 1TB,5.0,6499.0,2025-12-26,Thanjavur,32495.0
+285,C101,Priya,USB-C Cable,3.0,273.9,2026-02-15,Chennai,821.7
+287,C107,Sneha,Power Bank,7.0,1048.95,2025-12-16,Erode,7342.65
+288,C106,Rahul,Webcam,5.0,2199.0,2026-05-08,Trichy,10995.0
+289,C120,Yamini,Keyboard,1.0,899.0,2025-11-06,Cuddalore,899.0
+290,C125,Dinesh,Bluetooth Speaker,1.0,1619.1,2025-06-10,Trichy,1619.1
+291,C115,Suresh,Laptop Bag,7.0,1258.95,2026-03-29,Kanchipuram,8812.65
+292,C114,Aishwarya,Headphones,4.0,1758.9,2025-04-27,Chengalpattu,7035.6
+293,C112,Nithya,Power Bank,2.0,999.0,2026-08-31,Dindigul,1998.0
+294,C116,Keerthana,USB Hub,5.0,674.1,2025-08-14,Nagercoil,3370.5
+295,C113,Manoj,Bluetooth Speaker,1.0,1619.1,2025-07-29,Unknown,1619.1
+296,C110,Priya,Laptop Stand,3.0,1299.0,2025-10-24,Unknown,3897.0
+297,C111,Santhosh,Keyboard,1.0,943.95,2026-03-17,Tiruppur,943.95
+298,C106,Rahul,USB-C Cable,7.0,273.9,2025-08-24,Trichy,1917.3
+299,C117,Hari,USB Hub,6.0,674.1,2026-11-02,Karur,4044.6
+300,C124,Janani,Wireless Mouse,7.0,539.1,2026-04-16,Coimbatore,3773.7
+301,C103,Divya,Webcam,7.0,2418.9,2026-02-19,Madurai,16932.3
+302,C123,Ramesh,Laptop Bag,7.0,1199.0,2025-04-28,Madurai,8393.0
+304,C123,Ramesh,Webcam,2.0,2308.95,2025-04-19,Madurai,4617.9
+305,C108,Vijay,Power Bank,7.0,1098.9,2025-03-22,Vellore,7692.3
+306,C113,Manoj,Headphones,6.0,1599.0,2025-08-12,Thoothukudi,9594.0
+307,C125,Dinesh,USB-C Cable,2.0,273.9,2025-04-27,Unknown,547.8
+308,C117,Hari,USB Hub,4.0,749.0,2025-12-26,Karur,2996.0
+309,C124,Janani,Laptop Bag,3.0,1199.0,2025-04-16,Coimbatore,3597.0
+310,C105,Meena,Headphones,4.0,1599.0,2026-09-09,Salem,6396.0
+311,C105,Meena,Laptop Bag,2.0,1199.0,2026-05-21,Salem,2398.0
+312,C115,Suresh,Bluetooth Speaker,8.0,1978.9,2025-11-27,Kanchipuram,15831.2
+313,C121,Gokul,Webcam,3.0,2308.95,2025-11-03,Chennai,6926.85
+314,C116,Keerthana,Monitor,5.0,8999.0,2026-08-29,Nagercoil,44995.0
+315,C102,Arun,Webcam,2.0,2199.0,2026-04-18,Coimbatore,4398.0
+316,C115,Suresh,Wireless Mouse,1.0,599.0,2025-10-21,Kanchipuram,599.0
+317,C103,Divya,Laptop Bag,2.0,1318.9,2026-01-09,Madurai,2637.8
+318,C117,Hari,Power Bank,8.0,1098.9,2026-07-22,Karur,8791.2
+319,C124,Janani,Wireless Mouse,8.0,658.9,2025-12-07,Coimbatore,5271.2
+320,C111,Santhosh,Bluetooth Speaker,8.0,1978.9,2025-04-06,Tiruppur,15831.2
+321,C102,Arun,Monitor,2.0,8999.0,2025-03-28,Coimbatore,17998.0
+322,C117,Hari,Laptop Bag,3.0,1079.1,2025-11-09,Karur,3237.3
+323,C123,Ramesh,Monitor,8.0,9898.9,2026-06-20,Madurai,79191.2
+324,C120,Yamini,USB-C Cable,6.0,249.0,2025-10-17,Cuddalore,1494.0
+325,C113,Manoj,Power Bank,6.0,1098.9,2025-02-23,Thoothukudi,6593.4
+326,C121,Gokul,Laptop Bag,6.0,1079.1,2025-04-12,Chennai,6474.6
+327,C104,Karthik,USB Hub,7.0,749.0,2025-09-16,Tirunelveli,5243.0
+328,C124,Janani,Laptop Bag,3.0,1199.0,2025-03-25,Coimbatore,3597.0
+329,C119,Praveen,Laptop Bag,3.0,1199.0,2025-11-14,Hosur,3597.0
+330,C121,Gokul,SSD 1TB,7.0,6499.0,2026-09-02,Chennai,45493.0
+331,C123,Ramesh,Keyboard,5.0,988.9,2026-01-21,Madurai,4944.5
+332,C121,Gokul,Webcam,3.0,2418.9,2025-06-04,Chennai,7256.7
+333,C121,Gokul,Laptop Bag,7.0,1318.9,2026-06-01,Chennai,9232.3
+334,C101,Priya,Webcam,5.0,2199.0,2025-08-08,Chennai,10995.0
+335,C111,Santhosh,Monitor,4.0,8999.0,2025-05-21,Tiruppur,35996.0
+336,C105,Meena,Keyboard,5.0,809.1,2026-04-06,Salem,4045.5
+337,C125,Dinesh,USB Hub,1.0,749.0,2025-05-15,Trichy,749.0
+338,C120,Yamini,Power Bank,3.0,999.0,2025-05-07,Cuddalore,2997.0
+339,C123,Ramesh,Bluetooth Speaker,1.0,1888.95,2025-02-14,Madurai,1888.95
+340,C114,Aishwarya,Webcam,4.0,2308.95,2025-10-19,Chengalpattu,9235.8
+341,C125,Dinesh,SSD 1TB,8.0,6499.0,2026-01-07,Trichy,51992.0
+342,C108,Vijay,Headphones,8.0,1599.0,2026-12-01,Vellore,12792.0
+343,C122,Pavithra,Bluetooth Speaker,8.0,1888.95,2025-10-16,Salem,15111.6
+344,C125,Dinesh,Power Bank,7.0,999.0,2025-07-24,Trichy,6993.0
+345,C120,Yamini,USB-C Cable,1.0,224.1,2026-08-05,Cuddalore,224.1
+346,C112,Nithya,USB Hub,2.0,823.9,2025-08-05,Dindigul,1647.8
+347,C110,Priya,Keyboard,3.0,899.0,2026-06-04,Chennai,2697.0
+348,C117,Hari,USB-C Cable,7.0,224.1,2025-08-16,Karur,1568.7
+349,C115,Suresh,Webcam,1.0,2308.95,2025-02-24,Kanchipuram,2308.95
+350,C113,Manoj,USB Hub,6.0,749.0,2026-01-31,Thoothukudi,4494.0
+351,C103,Divya,Webcam,4.0,1979.1,2025-11-23,Madurai,7916.4
+352,C104,Karthik,SSD 1TB,6.0,6499.0,2025-05-21,Tirunelveli,38994.0
+353,C102,Arun,Headphones,8.0,1599.0,2026-04-26,Coimbatore,12792.0
+354,C115,Suresh,Bluetooth Speaker,1.0,1619.1,2025-01-20,Kanchipuram,1619.1
+355,C109,Anitha,Laptop Stand,3.0,1428.9,2026-06-25,Thanjavur,4286.7
+356,C114,Aishwarya,Keyboard,5.0,899.0,2025-05-11,Chengalpattu,4495.0
+357,C104,Karthik,Wireless Mouse,4.0,628.95,2026-04-14,Tirunelveli,2515.8
+358,C103,Divya,Keyboard,8.0,988.9,2026-03-07,Madurai,7911.2
+359,C101,Priya,Laptop Bag,4.0,1199.0,2025-10-26,Chennai,4796.0
+360,C114,Aishwarya,Wireless Mouse,6.0,599.0,2026-08-08,Chengalpattu,3594.0
+361,C114,Aishwarya,USB-C Cable,2.0,273.9,2026-05-01,Chengalpattu,547.8
+362,C103,Divya,USB Hub,1.0,786.45,2026-04-27,Madurai,786.45
+363,C102,Arun,Laptop Bag,7.0,1199.0,2025-09-17,Coimbatore,8393.0
+364,C124,Janani,Wireless Mouse,6.0,539.1,2025-12-20,Coimbatore,3234.6
+365,C108,Vijay,SSD 1TB,2.0,7148.9,2025-07-12,Vellore,14297.8
+366,C105,Meena,Wireless Mouse,6.0,658.9,2025-12-13,Salem,3953.4
+367,C121,Gokul,USB-C Cable,8.0,261.45,2025-06-07,Chennai,2091.6
+368,C105,Meena,Keyboard,8.0,809.1,2025-10-28,Salem,6472.8
+369,C107,Sneha,Wireless Mouse,4.0,539.1,2025-11-20,Erode,2156.4
+370,C110,Priya,USB Hub,7.0,823.9,2026-04-30,Chennai,5767.3
+371,C109,Anitha,Wireless Mouse,4.0,599.0,2026-01-01,Thanjavur,2396.0
+372,C125,Dinesh,Wireless Mouse,6.0,599.0,2025-08-05,Trichy,3594.0
+373,C112,Nithya,Power Bank,7.0,1048.95,2026-01-31,Dindigul,7342.65
+374,C111,Santhosh,USB-C Cable,8.0,261.45,2026-12-01,Tiruppur,2091.6
+375,C117,Hari,Headphones,2.0,1678.95,2025-03-22,Unknown,3357.9
+376,C114,Aishwarya,Bluetooth Speaker,3.0,1978.9,2025-10-28,Chengalpattu,5936.7
+378,C110,Priya,Monitor,7.0,8999.0,2026-03-31,Chennai,62993.0
+379,C112,Nithya,Monitor,1.0,8999.0,2026-03-22,Dindigul,8999.0
+380,C109,Anitha,Laptop Bag,1.0,1079.1,2026-02-20,Thanjavur,1079.1
+381,C112,Nithya,USB Hub,3.0,674.1,2025-05-27,Dindigul,2022.3
+382,C120,Yamini,Laptop Bag,8.0,1079.1,2025-10-05,Cuddalore,8632.8
+383,C103,Divya,Laptop Stand,6.0,1299.0,2026-01-28,Madurai,7794.0
+384,C119,Praveen,Wireless Mouse,3.0,628.95,2026-01-15,Hosur,1886.85
+385,C112,Nithya,Monitor,2.0,9898.9,2025-05-21,Dindigul,19797.8
+386,C117,Hari,Webcam,7.0,2199.0,2025-10-13,Karur,15393.0
+387,C108,Unknown,Keyboard,1.0,899.0,2026-05-27,Vellore,899.0
+388,C117,Hari,Power Bank,2.0,999.0,2025-09-24,Karur,1998.0
+389,C123,Ramesh,Monitor,4.0,9898.9,2025-10-20,Madurai,39595.6
+390,C123,Ramesh,Monitor,4.0,8099.1,2025-05-19,Madurai,32396.4
+391,C103,Divya,Monitor,3.0,9448.95,2025-03-31,Madurai,28346.85
+392,C122,Pavithra,Webcam,6.0,1979.1,2026-07-18,Salem,11874.6
+393,C118,Lakshmi,Headphones,5.0,1599.0,2025-06-28,Villupuram,7995.0
+394,C112,Nithya,USB Hub,4.0,674.1,2025-07-25,Dindigul,2696.4
+395,C105,Meena,Laptop Stand,8.0,1169.1,2026-05-01,Salem,9352.8
+396,C118,Lakshmi,Bluetooth Speaker,6.0,1888.95,2026-07-19,Unknown,11333.7
+397,C105,Meena,Bluetooth Speaker,2.0,1619.1,2025-11-13,Salem,3238.2
+398,C113,Unknown,SSD 1TB,8.0,7148.9,2026-02-25,Thoothukudi,57191.2
+399,C125,Dinesh,Power Bank,2.0,999.0,2025-11-21,Trichy,1998.0
+400,C121,Gokul,Keyboard,8.0,943.95,2026-06-14,Chennai,7551.6
+401,C112,Nithya,USB-C Cable,3.0,249.0,2026-03-20,Dindigul,747.0
+402,C117,Hari,Wireless Mouse,2.0,658.9,2025-06-06,Karur,1317.8
+403,C110,Priya,USB-C Cable,3.0,249.0,2025-08-19,Chennai,747.0
+404,C112,Nithya,USB Hub,5.0,674.1,2025-09-14,Dindigul,3370.5
+405,C107,Sneha,Laptop Bag,5.0,1199.0,2025-07-11,Erode,5995.0
+406,C120,Yamini,USB Hub,2.0,823.9,2025-06-22,Cuddalore,1647.8
+407,C119,Praveen,Bluetooth Speaker,3.0,1799.0,2026-12-09,Hosur,5397.0
+408,C111,Santhosh,Bluetooth Speaker,1.0,1619.1,2025-03-25,Tiruppur,1619.1
+409,C102,Arun,Laptop Bag,5.0,1199.0,2026-09-08,Coimbatore,5995.0
+410,C114,Aishwarya,Bluetooth Speaker,1.0,1888.95,2026-07-13,Chengalpattu,1888.95
+411,C110,Priya,Laptop Bag,5.0,1258.95,2025-08-09,Chennai,6294.75
+412,C122,Pavithra,Power Bank,5.0,1048.95,2025-03-16,Salem,5244.75
+413,C123,Ramesh,Wireless Mouse,3.0,628.95,2026-02-03,Madurai,1886.85
+414,C116,Keerthana,Monitor,4.0,8999.0,2025-05-28,Nagercoil,35996.0
+415,C111,Santhosh,SSD 1TB,6.0,6499.0,2026-02-13,Tiruppur,38994.0
+416,C105,Meena,Webcam,2.0,2199.0,2025-05-09,Salem,4398.0
+417,C115,Suresh,Keyboard,5.0,943.95,2025-11-09,Kanchipuram,4719.75
+418,C105,Meena,Keyboard,1.0,899.0,2026-01-29,Unknown,899.0
+419,C120,Yamini,Power Bank,4.0,999.0,2025-02-12,Cuddalore,3996.0
+420,C119,Praveen,SSD 1TB,1.0,6499.0,2025-06-13,Hosur,6499.0
+421,C116,Keerthana,USB Hub,8.0,786.45,2025-12-11,Nagercoil,6291.6
+422,C116,Keerthana,Wireless Mouse,2.0,628.95,2026-02-06,Nagercoil,1257.9
+423,C115,Suresh,Laptop Stand,4.0,1428.9,2025-12-28,Kanchipuram,5715.6
+424,C102,Arun,Wireless Mouse,5.0,628.95,2026-04-09,Coimbatore,3144.75
+425,C121,Gokul,Laptop Bag,8.0,1199.0,2026-04-07,Chennai,9592.0
+426,C101,Priya,Keyboard,7.0,899.0,2025-09-28,Chennai,6293.0
+427,C124,Janani,Webcam,7.0,2199.0,2025-02-16,Coimbatore,15393.0
+428,C113,Manoj,Wireless Mouse,4.0,599.0,2026-07-21,Thoothukudi,2396.0
+429,C110,Priya,Keyboard,7.0,988.9,2026-07-04,Chennai,6922.3
+430,C125,Dinesh,USB Hub,5.0,823.9,2025-02-05,Trichy,4119.5
+431,C105,Meena,Keyboard,7.0,899.0,2025-12-14,Salem,6293.0
+432,C118,Lakshmi,Webcam,3.0,2199.0,2026-09-09,Villupuram,6597.0
+433,C117,Hari,Power Bank,1.0,899.1,2025-09-02,Karur,899.1
+434,C105,Meena,SSD 1TB,6.0,6823.95,2026-06-16,Salem,40943.7
+435,C115,Suresh,USB-C Cable,3.0,249.0,2025-11-23,Kanchipuram,747.0
+436,C106,Rahul,Power Bank,5.0,1098.9,2025-11-12,Trichy,5494.5
+437,C117,Hari,USB Hub,8.0,823.9,2025-03-11,Karur,6591.2
+438,C116,Keerthana,Wireless Mouse,6.0,599.0,2025-04-23,Nagercoil,3594.0
+439,C114,Aishwarya,Bluetooth Speaker,5.0,1619.1,2026-04-09,Chengalpattu,8095.5
+440,C116,Keerthana,Headphones,4.0,1439.1,2026-08-21,Nagercoil,5756.4
+441,C116,Keerthana,USB-C Cable,7.0,249.0,2025-06-09,Nagercoil,1743.0
+442,C102,Arun,Bluetooth Speaker,2.0,1799.0,2025-01-20,Coimbatore,3598.0
+443,C115,Unknown,Webcam,7.0,2199.0,2026-02-27,Kanchipuram,15393.0
+444,C123,Ramesh,Laptop Stand,7.0,1428.9,2026-04-28,Madurai,10002.3
+445,C124,Janani,SSD 1TB,1.0,6499.0,2026-06-16,Coimbatore,6499.0
+446,C107,Sneha,USB Hub,6.0,786.45,2026-06-23,Erode,4718.7
+447,C113,Manoj,Webcam,3.0,2308.95,2026-06-30,Thoothukudi,6926.85
+448,C111,Santhosh,USB Hub,6.0,749.0,2026-11-05,Tiruppur,4494.0
+449,C107,Sneha,Laptop Stand,1.0,1428.9,2025-02-11,Erode,1428.9
+450,C108,Vijay,Headphones,5.0,1599.0,2026-05-16,Vellore,7995.0
+452,C110,Priya,Keyboard,7.0,943.95,2025-12-20,Chennai,6607.65
+453,C125,Dinesh,USB-C Cable,5.0,224.1,2025-10-22,Trichy,1120.5
+454,C123,Ramesh,Keyboard,6.0,943.95,2025-09-20,Madurai,5663.7
+455,C124,Janani,Monitor,4.0,8999.0,2026-06-07,Coimbatore,35996.0
+456,C109,Anitha,USB Hub,5.0,749.0,2025-04-22,Thanjavur,3745.0
+457,C120,Yamini,SSD 1TB,4.0,6499.0,2025-02-21,Cuddalore,25996.0
+458,C122,Pavithra,USB Hub,4.0,749.0,2025-02-23,Salem,2996.0
+459,C104,Karthik,Power Bank,6.0,1048.95,2025-04-13,Tirunelveli,6293.7
+460,C122,Pavithra,USB-C Cable,1.0,273.9,2025-11-06,Salem,273.9
+461,C114,Aishwarya,Laptop Bag,8.0,1258.95,2025-07-24,Chengalpattu,10071.6
+462,C125,Dinesh,Headphones,6.0,1599.0,2025-02-03,Trichy,9594.0
+463,C125,Dinesh,Keyboard,4.0,988.9,2025-08-02,Trichy,3955.6
+464,C106,Rahul,Power Bank,3.0,899.1,2026-11-02,Trichy,2697.3
+465,C116,Keerthana,USB-C Cable,5.0,224.1,2025-10-01,Nagercoil,1120.5
+466,C110,Priya,Bluetooth Speaker,2.0,1799.0,2025-10-19,Chennai,3598.0
+467,C115,Suresh,Laptop Bag,8.0,1199.0,2026-01-06,Kanchipuram,9592.0
+468,C115,Suresh,Headphones,4.0,1439.1,2025-05-12,Kanchipuram,5756.4
+469,C106,Rahul,SSD 1TB,8.0,6499.0,2025-10-07,Trichy,51992.0
+470,C101,Priya,SSD 1TB,6.0,6499.0,2026-05-08,Unknown,38994.0
+471,C122,Pavithra,Laptop Stand,3.0,1428.9,2026-02-20,Salem,4286.7
+472,C114,Aishwarya,USB Hub,6.0,674.1,2026-02-15,Chengalpattu,4044.6
+473,C122,Pavithra,Keyboard,3.0,899.0,2026-04-05,Salem,2697.0
+474,C111,Santhosh,Laptop Stand,1.0,1299.0,2026-01-28,Tiruppur,1299.0
+475,C108,Vijay,Monitor,5.0,8999.0,2025-06-11,Vellore,44995.0
+476,C119,Praveen,SSD 1TB,1.0,6499.0,2026-04-01,Hosur,6499.0
+477,C123,Ramesh,Laptop Stand,1.0,1169.1,2026-04-22,Madurai,1169.1
+478,C110,Priya,USB-C Cable,7.0,273.9,2025-11-15,Chennai,1917.3
+479,C123,Ramesh,Keyboard,5.0,899.0,2025-08-15,Madurai,4495.0
+480,C108,Vijay,USB-C Cable,8.0,249.0,2026-11-04,Vellore,1992.0
+481,C124,Janani,Bluetooth Speaker,6.0,1888.95,2026-07-17,Coimbatore,11333.7
+482,C116,Keerthana,USB Hub,4.0,749.0,2026-03-09,Nagercoil,2996.0
+483,C103,Divya,USB Hub,8.0,823.9,2026-01-06,Madurai,6591.2
+484,C103,Divya,Bluetooth Speaker,2.0,1619.1,2026-07-15,Madurai,3238.2
+485,C117,Hari,Laptop Stand,3.0,1299.0,2025-02-12,Karur,3897.0
+487,C116,Keerthana,Keyboard,8.0,809.1,2026-10-04,Nagercoil,6472.8
+488,C105,Meena,USB Hub,7.0,786.45,2026-01-08,Salem,5505.15
+489,C102,Arun,USB Hub,8.0,749.0,2025-01-23,Coimbatore,5992.0
+490,C113,Manoj,Headphones,1.0,1599.0,2026-08-16,Thoothukudi,1599.0
+491,C103,Divya,Wireless Mouse,7.0,599.0,2025-07-03,Madurai,4193.0
+492,C118,Lakshmi,Wireless Mouse,2.0,628.95,2025-02-02,Villupuram,1257.9
+493,C110,Priya,Power Bank,3.0,999.0,2026-07-03,Chennai,2997.0
+494,C112,Nithya,Power Bank,8.0,1048.95,2026-01-20,Dindigul,8391.6
+495,C103,Divya,Laptop Bag,3.0,1199.0,2025-02-05,Madurai,3597.0
+496,C106,Rahul,USB Hub,7.0,823.9,2025-11-05,Trichy,5767.3
+497,C124,Janani,Laptop Stand,1.0,1169.1,2025-02-11,Coimbatore,1169.1
+498,C115,Suresh,Laptop Bag,7.0,1318.9,2026-01-24,Kanchipuram,9232.3
+499,C108,Vijay,Laptop Stand,8.0,1299.0,2025-08-06,Vellore,10392.0
+500,C109,Anitha,Laptop Stand,2.0,1169.1,2026-06-03,Thanjavur,2338.2
